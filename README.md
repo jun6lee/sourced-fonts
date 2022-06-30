@@ -42,6 +42,12 @@ Haven't kept track of what was sourced from where specifically.
 ### Phenomicon Laser Family
  - Italic, Regular
 
+### Rockwell Family
+ - Bold, Regular
+
+### Rockwell BQ
+ - BoldItalic, CondensedBold, ExtraBold, Regular
+
 ### Savinder
 
 ### South Park   
