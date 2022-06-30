@@ -15,6 +15,8 @@ Haven't kept track of what was sourced from where specifically.
 ---
 ### Apple Chancery
 
+### Augustus Beveled  
+
 ### Black Mustang   
 
 ### Bodoni Sans Text   
