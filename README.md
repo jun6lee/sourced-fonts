@@ -14,35 +14,43 @@ Haven't kept track of what was sourced from where specifically.
    
 ---
 ### Apple Chancery
-
 ### Augustus Beveled  
-
 ### Black Mustang   
-
-### Bodoni Sans Text   
+### Blockletter  
+### Bodoni Sans Text 
 - BoldItalic, Bold, Italic, Regular   
 
-### Calibri Family
+### Calibri
  - Light, Regular
 
+### Cocacola   
 ### Coffekan   
 
 ### Gallery Modern   
+### Georgia
+- BoldItalic, Bold, Italic, Regular   
 
-### Kenoky Family   
+### HelveticaNeue
+### Hollywood
+
+### Kenoky   
  - Black, Bold, DemiBold, ExtraBold, ExtraLight, Heavy, Light, Medium, Normal, Regular, SemiBold, Thin, UltraBold, UltraLight
 
-### Mikela Family
+### LokiCola
+### Mikela
  - Light, Regular
 
 ### NCAA Detroit Titans Bold
 
+### Oswald
+ - Bold, BoldItalic, Demi-BoldItalic, DemiBold, Extra-LightItalic, ExtraLight, Heavy, HeavyItalic, Light, LightItalic, Medium, MediumItalic, Regular, RegularItalic, Stencil
+
 ### Parry Hotter
 
-### Phenomicon Laser Family
+### Phenomicon Laser
  - Italic, Regular
 
-### Rockwell Family
+### Rockwell 	
  - Bold, Regular
 
 ### Rockwell BQ
@@ -51,3 +59,7 @@ Haven't kept track of what was sourced from where specifically.
 ### Savinder
 
 ### South Park   
+### TT-Directors
+- BL-Regular, ThinRough-Thin
+
+### VintageBulbSign
