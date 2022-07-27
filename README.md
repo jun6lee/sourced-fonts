@@ -11,14 +11,23 @@ Haven't kept track of what was sourced from where specifically.
 [fontmirror.com](fontmirror.com)  
 [onlinewebfonts.com](onlinewebfonts.com)  
 
-   
+
+
 ---
+
 ### Apple Chancery
+### Atari Small
 ### Augustus Beveled  
 ### Black Mustang   
 ### Blockletter  
+### Blogger Sans
+- Bold, Bold_Italic, Italic, Light, Light_Italic, Medium, Medium_Italic, Regular   
+
 ### Bodoni Sans Text 
 - BoldItalic, Bold, Italic, Regular   
+
+### Bookman Old Style
+- Bold, Regular   
 
 ### Calibri
  - Light, Regular
@@ -30,6 +39,7 @@ Haven't kept track of what was sourced from where specifically.
 ### Georgia
 - BoldItalic, Bold, Italic, Regular   
 
+### Hectic
 ### HelveticaNeue
 ### Hollywood
 
@@ -37,6 +47,7 @@ Haven't kept track of what was sourced from where specifically.
  - Black, Bold, DemiBold, ExtraBold, ExtraLight, Heavy, Light, Medium, Normal, Regular, SemiBold, Thin, UltraBold, UltraLight
 
 ### LokiCola
+### MarqueeSign
 ### Mikela
  - Light, Regular
 
@@ -63,3 +74,14 @@ Haven't kept track of what was sourced from where specifically.
 - BL-Regular, ThinRough-Thin
 
 ### VintageBulbSign
+
+
+---
+
+### Hindi Fonts   
+- DevLys 010 Normal
+- Kruti Dev 010 Regular
+- Mangal Regular
+
+---
+
