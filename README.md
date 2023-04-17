@@ -3,6 +3,7 @@ Compilation of `Fonts` I find handy to have on MacOS.
 Haven't kept track of what was sourced from where specifically.
 
 ## Sources
+[1001fonts.com](1001fonts.com)  
 [cufonfonts.com](cufonfonts.com)  
 [dafontfree.net](dafontfree.net)  
 [dfonts.org](dfonts.org)   
