@@ -9,6 +9,7 @@ Haven't kept track of what was sourced from where specifically.
 [freefontsdownload.net](freefontsdownload.net)   
 [fontget.com](fontget.com)   
 [fontmirror.com](fontmirror.com)  
+[fonts2u.com](fonts2u.com)  
 [onlinewebfonts.com](onlinewebfonts.com)  
 
 
@@ -61,17 +62,27 @@ Haven't kept track of what was sourced from where specifically.
 ### Phenomicon Laser
  - Italic, Regular
 
+### Raleway
+ - Bold, ExtraBold, ExtraLight, Heavy, Light, Medium, Regular, SemiBold, Thin, DotsRegular  
+
 ### Rockwell 	
  - Bold, Regular
 
 ### Rockwell BQ
  - BoldItalic, CondensedBold, ExtraBold, Regular
 
+### Segoe UI
+ - Bold, BoldItalic, Italic, Regular
+
 ### Savinder
 
 ### South Park   
+
 ### TT-Directors
 - BL-Regular, ThinRough-Thin
+
+### Uni Sans
+ - Heavy, HeavyItalic, Thin, ThinItalic
 
 ### VintageBulbSign
 
