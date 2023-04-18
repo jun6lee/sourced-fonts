@@ -17,9 +17,13 @@ Haven't kept track of what was sourced from where specifically.
 
 ---
 
-### Apple Chancery
-### Atari Small
+### Aachen Bold  
+### Apple Chancery  
+### Atari Small  
 ### Augustus Beveled  
+### Bevan   
+- Italic, Regular   
+
 ### Black Mustang   
 ### Blockletter  
 ### Blogger Sans
@@ -36,7 +40,7 @@ Haven't kept track of what was sourced from where specifically.
 
 ### Cocacola   
 ### Coffekan   
-
+### Comfortaa  
 ### Gallery Modern   
 ### Georgia
 - BoldItalic, Bold, Italic, Regular   
@@ -50,6 +54,9 @@ Haven't kept track of what was sourced from where specifically.
 
 ### LokiCola
 ### MarqueeSign
+### Merriweather   
+ - Black, BlackItalic, Bold, BoldItalic, Italic, Light, LightItalic, Regular
+
 ### Mikela
  - Light, Regular
 
@@ -65,6 +72,8 @@ Haven't kept track of what was sourced from where specifically.
 
 ### Raleway
  - Bold, ExtraBold, ExtraLight, Heavy, Light, Medium, Regular, SemiBold, Thin, DotsRegular  
+
+### Rhino Sans 	
 
 ### Rockwell 	
  - Bold, Regular
