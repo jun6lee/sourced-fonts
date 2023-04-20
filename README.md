@@ -63,7 +63,11 @@ Haven't kept track of what was sourced from where specifically.
 ### NCAA Detroit Titans Bold
 
 ### Oswald
- - Bold, BoldItalic, Demi-BoldItalic, DemiBold, Extra-LightItalic, ExtraLight, Heavy, HeavyItalic, Light, LightItalic, Medium, MediumItalic, Regular, RegularItalic, Stencil
+ - Bold, BoldItalic, Demi-BoldItalic, DemiBold, Extra-LightItalic, ExtraLight, Heavy, HeavyItalic, Light, LightItalic, Medium, MediumItalic, Regular, RegularItalic, Stencil  
+
+### Open Sans
+ - Bold, BoldItali, ExtraBold, ExtraBoldItalic, Italic, Light, LightItalic, Regular, SemiBold, SemiBoldItalic
+
 
 ### Parry Hotter
 
